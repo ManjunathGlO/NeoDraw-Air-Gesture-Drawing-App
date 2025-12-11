@@ -1,6 +1,6 @@
 
 
-![WhatsApp Image 2025-12-08 at 18 57 39_01e63cf4](https://github.com/user-attachments/assets/cc4f40eb-0d1e-45fd-9c69-b4c609a0b3b0)
+![WhatsApp Image 2025-12-11 at 18 03 00_70b8a777](https://github.com/user-attachments/assets/d9c8d133-d5a2-4d7b-bc91-5742501182c7)
 # 🌟 NeoDraw – Air Gesture Drawing App
 ### Draw with light. Paint with motion. Create without touch.
 
@@ -63,6 +63,7 @@ Press S to save your creation inside the captures/ folder
 ## 🎨 Example Output
 
 
+![WhatsApp Image 2025-12-11 at 18 03 01_461113c2](https://github.com/user-attachments/assets/e670c9a1-7693-4a80-842b-deb57fef9c87)
 
 ## 🏆 Author
 - Manjunath GL
